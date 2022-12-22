@@ -18,11 +18,11 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
+      text: '主页',
       url: 'https://status.nbplus.eu.org/'
     },
     {
-      text: 'Blog',
+      text: '晴雀の博客',
       url: 'https://blog.nbplus.eu.org/'
     },
   ],
